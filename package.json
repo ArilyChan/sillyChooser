@@ -1,7 +1,7 @@
 {
-  "name": "silly-response-bot",
-  "version": "1.4.0",
-  "description": "SillyResponseBot",
+  "name": "sillyChooser",
+  "version": "1.4.1",
+  "description": "sillyChooser",
   "main": "index.js",
   "author": {
     "name": "Exsper"
