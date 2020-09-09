@@ -9,7 +9,7 @@ npm install ArilyChan/sillyChooser
 
 ### 使用
 ```javascript
-const sillyChooser = require("sillyChooser");
+const sillyChooser = require("sillychooser");
 let sc = new sillyChooser({
     prefixs: ["!","！"], // 指令前缀，必须为单个字符，默认为["!","！"]
 })
